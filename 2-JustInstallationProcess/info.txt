@@ -1,0 +1,2 @@
+Nothing is taught here 
+just how to install Python,Anaconda,etc
